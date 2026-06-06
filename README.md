@@ -1,4 +1,4 @@
-# Budget Phone Intelligence
+# Budget Phone Intelligence - [https://smartphone-market-segmentation-hyocppkahemfuzec4faun7.streamlit.app/]
 
 A clustering-based phone segmentation project that analyzes budget phones (under ₹10,000) scraped from Flipkart. The goal is to segment phones into meaningful groups using **KMeans clustering** so buyers can quickly find the best phone for their needs.
 
