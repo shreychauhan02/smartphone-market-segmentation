@@ -1,0 +1,11 @@
+feature
+RAM_GB
+ROM_GB
+Screen_cm
+Rear_Camera_MP
+Front_Camera_MP
+Battery_mAh
+Is_5G
+Price_INR
+Price_per_GB_RAM
+Value_Score
